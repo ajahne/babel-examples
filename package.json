@@ -1,10 +1,9 @@
 {
   "name": "babel-examples",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "babel test",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src -d lib"
   },
   "repository": {
     "type": "git",
@@ -17,6 +16,7 @@
   },
   "homepage": "https://github.com/ajahne/babel-examples#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.1"
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0"
   }
 }
