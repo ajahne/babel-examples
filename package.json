@@ -1,0 +1,22 @@
+{
+  "name": "babel-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajahne/babel-examples.git"
+  },
+  "author": "Ajahne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajahne/babel-examples/issues"
+  },
+  "homepage": "https://github.com/ajahne/babel-examples#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
