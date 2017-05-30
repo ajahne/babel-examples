@@ -11,3 +11,7 @@ var multiply = () => {
   var y = 10;
   return x * y;
 };
+
+var sayName = (name) => console.log(name);
+
+sayName('foo');
