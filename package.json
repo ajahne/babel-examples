@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "babel test",
   "scripts": {
-    "build": "babel src -d lib"
+    "build": "babel src -d lib --copy-files"
   },
   "repository": {
     "type": "git",
