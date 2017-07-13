@@ -14,4 +14,7 @@ let multiply = () => {
 
 let sayName = (name) => {console.log(name);}
 
+//the above can be writtern without the () around "name"
+let sayName2 = name => {console.log(name);}
+
 sayName('foo');
