@@ -1,4 +1,4 @@
-var message = "Hello World";
+let message = "Hello World";
 {
   let message = "Hello Block";
   console.log(message);
